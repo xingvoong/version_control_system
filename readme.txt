@@ -15,3 +15,6 @@ Supported commands with a short summary of their functionalities:
 - rm-branch: Deletes the branch with the given name.
 - reset: Checks out all the files tracked by the given commit.
 - merge: Merges files from the given branch into the current branch.
+
+to use, run: java gitlet.Main command
+exp: java gitlet.Main init
